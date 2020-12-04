@@ -1,0 +1,9 @@
+/downloads
+/buildDir
+.ansible_fact_cache
+.vagrant
+test*.yml
+python_venv
+sonatype
+nodejs_venv
+*.log
